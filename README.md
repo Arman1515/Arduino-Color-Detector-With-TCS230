@@ -17,5 +17,7 @@ __CIRCUIT DIAGRAM__
 ![COLOR DETECTOR_Diagram](https://user-images.githubusercontent.com/59843325/216432062-e83f1b86-a9ef-4294-9031-8520b42db8c7.jpg)<br>
 _Note:_<br>
 Here S0 and S1 not used.<br>
+__IF THERE IS ANY PROBLEM OR ISSUE OR YOU HAVE SOME BUG FIXES FOR THIS CODE PLEASE LET ME KNOW__<br>
+__THANK YOU__
 ______________
 __NOW UPLOAD THE CODE AND ENJOY!!!__
